@@ -1,0 +1,6 @@
+# macOS
+.DS_Store
+
+# DuckDB temporary files
+md:data_jobs.tmp/
+*.tmp
